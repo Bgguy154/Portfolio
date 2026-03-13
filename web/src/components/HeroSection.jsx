@@ -117,7 +117,7 @@ const HeroSection = () => {
               View Projects
             </button>
             <a
-              href="/resume.pdf"
+              href="https://drive.google.com/file/d/1xquHWdD0xDIrDu9XIwUliY990FqYG7lD/view?usp=drive_link"
               download
               className="w-full sm:w-auto px-8 py-3 bg-secondary text-secondary-foreground rounded-xl font-medium hover:bg-secondary/90 transition-all duration-200 active:scale-[0.98] shadow-lg hover:shadow-xl"
             >
